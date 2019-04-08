@@ -1,0 +1,2 @@
+Pour lancer l'installation :
+lancer l'executable script_lancement.bash
